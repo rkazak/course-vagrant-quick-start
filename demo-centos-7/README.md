@@ -30,7 +30,7 @@ This project is setup using the **Opscode** Ubuntu Vagrant box named **Opscode c
 	# returned to host
 	# delete project folder
 	cd ..
-	rm -rf demo-centos-
+	rm -rf demo-centos-7
 
 ### Files
 
