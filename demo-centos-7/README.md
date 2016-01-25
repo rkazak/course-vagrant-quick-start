@@ -1,10 +1,10 @@
 # Vagrant CentOS 7 Project
 
-This project contains the files created during the temporary CentOS 7 example showing finding and using a Vagrant box on the VagrantBox.es. Note, this project is deleted during the cours.
+This project contains the files created during the temporary CentOS 7 example showing finding and using a Vagrant box on the VagrantBox.es. Note, this project is deleted during the course.
 
 ## Getting Started
 
-This project is setup using the **Opscode** Ubuntu Vagrant box named **Opscode centos-7.0** which is the 64-bit version of the Ubuntu 14.04 LTS image packaged for VirtualBox.
+This project is setup using the **Opscode** Ubuntu Vagrant box named **Opscode centos-7.0** which is the 64-bit version of the CentOS 7.0 packaged for VirtualBox.
 
 ### Setup
 
